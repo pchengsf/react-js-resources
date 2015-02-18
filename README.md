@@ -1,5 +1,13 @@
 # Useful React.js Resources
 
+##### Who's Using React.js?
+- Apple
+- Netflix
+- HipChat
+- Flipboard web
+- Khan Academy
+- Yahoo! Mail
+
 ##### Components
 - [Facebook React](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [Facebook Fixed Data Table via React](https://github.com/facebook/fixed-data-table) - A React table component designed to allow presenting thousands of rows of data. http://facebook.github.io/fixed-data-table/

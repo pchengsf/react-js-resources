@@ -4,7 +4,7 @@
 - Apple
 - Netflix
 - HipChat
-- Flipboard web
+- Flipboard
 - Khan Academy
 - Yahoo! Mail
 
